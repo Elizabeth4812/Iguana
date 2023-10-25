@@ -1,0 +1,76 @@
+body {
+    font-family: "Raleway";
+    font-size: 50px;
+    font-weight: 100;
+    background-position: center;
+}
+.navbar {
+    background-color: black;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+#Hero-Section{
+    background-image: url("../img/bg-header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vw;
+    padding: 50%;
+    }
+
+#iguana-1 {
+    background: black;
+    padding: 100px;
+    color: white;
+    font-family: "Raleway";
+    font-size: 16px;
+    text-align: left;
+    font: 300;
+}
+
+#iguana-1 img {
+    width: 70%;
+
+}
+
+#iguana-1 p {
+    width: 475px;
+    height: 120px;
+}
+
+
+#iguana-1 p, .img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Caracteristicas {
+    background-color: #1E1A13;
+    color: white;
+    font-family: "Raleway";  
+
+}
+
+
+
+
+#Fotos {
+    background-color: black;
+
+}
+
+#footer {
+    font-family: "Relaway";
+    text-align: center;
+    background: #1E1A13;
+    color: white;
+
+}
+
+#footer p {
+    font-size: 30px;
+
+}
+
